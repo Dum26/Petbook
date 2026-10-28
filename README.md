@@ -43,8 +43,3 @@ npm run build
 
 GitHub Actions tự chạy kiểm thử và build khi push hoặc mở pull request. Kiểm thử database: `npm run test:database` — dữ liệu thử được rollback.
 
-## Lưu ý
-
-- Không đưa `.env.local`, mật khẩu hoặc ảnh/dữ liệu cá nhân lên GitHub.
-- Ảnh đại diện và ảnh bìa được hiển thị công khai.
-- Đổi mật khẩu database từng nằm trong mã cũ; chuyển ảnh cũ có URL công khai sang kho riêng nếu cần bảo vệ quyền xem.
