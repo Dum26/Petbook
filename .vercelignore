@@ -1,0 +1,12 @@
+.git
+.vercel
+.next
+node_modules
+.env*
+*.tsbuildinfo
+scripts
+Database
+nha_cua_2_boss_demo.html
+data
+public/uploads
+.deploy
