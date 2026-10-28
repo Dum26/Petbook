@@ -2,7 +2,6 @@
 
 Mạng xã hội cho thú cưng: chia sẻ khoảnh khắc, kết bạn và lưu giữ kỷ niệm.
 
-**Next.js 15 · React 19 · TypeScript · Tailwind CSS · Supabase**
 
 ## Tính năng
 
